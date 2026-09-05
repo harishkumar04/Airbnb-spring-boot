@@ -1,4 +1,4 @@
-package com.example.airbnb.AirbnbProject.enitty;
+package com.example.airbnb.AirbnbProject.entity;
 
 import jakarta.persistence.Embeddable;
 import lombok.Getter;
